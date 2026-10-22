@@ -3,7 +3,7 @@
 </h1> 
 
 <p 
-    align="center"> Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br> <a href="COLE_AQUI_O_LINK_DO_VIDEO">Estude esse projeto em formato de vídeo clicando aqui.</a> 
+    align="center"> Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p> 
 
 <p 
